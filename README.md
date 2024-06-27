@@ -1,6 +1,7 @@
 # Hundreds
 A quick, easy-to-learn card game in a text-based, .exe format.
 Instructions on how to play the game are included in the game itself, under the 'info' menu, but are also explained below:
+
             The Object of the Game:
                 The object of the game is to be the last one standing. If you can't avoid
             pushing the value of the discard pile over 99, you're out of the round!
