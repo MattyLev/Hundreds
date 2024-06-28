@@ -1,7 +1,6 @@
 #Hundreds v1.3
-#A card game by Cooper Sitaras
-#Digital adaptation by Cooper Sitaras
-
+#A card game by MattyLev
+#Digital adaptation by MattyLev
 import random as r
 from time import sleep
 
